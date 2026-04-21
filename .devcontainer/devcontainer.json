@@ -9,7 +9,9 @@
 				"ms-dotnettools.vscode-dotnet-runtime",
 				"kreativ-software.csharpextensions",
 				"gaoshan0621.csharp-format-usings",
-				"ms-azuretools.vscode-containers"
+				"ms-azuretools.vscode-containers",
+				"oderwat.indent-rainbow",
+				"vscode-icons-team.vscode-icons"
 			],
 			"settings": {
 				"editor.formatOnSave": true
