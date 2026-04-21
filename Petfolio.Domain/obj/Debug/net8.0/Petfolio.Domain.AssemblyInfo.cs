@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Petfolio.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+25aaf7ed82aa44a49488e59d2851760a849474dc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+35aa80d06325fd3b9a69691c20edb144156beddd")]
 [assembly: System.Reflection.AssemblyProductAttribute("Petfolio.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Petfolio.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
